@@ -11,7 +11,6 @@
 - pandas
 - numpy
 - matplotlib
-- seaborn
 
 ## Общий вывод
 
