@@ -1,6 +1,6 @@
 # Исследование объявлений о продаже квартир
- [Рабочая тетрадь проекта](Project_1/Exploratory_analysis.ipnb)
- [HTML](Project_1/Exploratory_analysis.html) 
+ [Рабочая тетрадь проекта](Exploratory_analysis.ipnb)
+ [HTML](Exploratory_analysis.html) 
 
 
 ## Описание проекта
